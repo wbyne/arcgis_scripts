@@ -1,0 +1,1 @@
+start "Randome Title Here" "%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\Microsoft\Windows\start Menu\Programs\LizardTech\LizardTech Geoviewer.appref-ms" %1
